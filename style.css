@@ -83,3 +83,8 @@ input[type="radio"] {
 textarea {
     width: 300px;
 }
+input[type="submit"] {
+    display:block;
+    margin: 20px 0 10px 0;
+    width: 100px;
+}
